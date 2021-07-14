@@ -1,0 +1,25 @@
+
+CTRL + B -> sağdaki menüyü açar/kapatır.
+CTRL + P -> dosya arama çubuğu açar. buradan dosya adı gir.
+CTRL + W -> açık olan dosyayı kapatır.
+CTRL + Tab -> dosyalar arasında gezer.
+CTRL + S -> bulunduğun dosyayı kaydeder.
+CTRL + ALT + S -> projede yer alan bütün dosyaları tek seferde kaydeder.
+
+------- TERMİNAL -------
+CTRL + SHIFT + " -> Terminal açar.
+
+
+------- MultiCursor (Çoklu İmleç) Kullanımı --------
+ALT tuşuna basarak işlem yapmak istediğin yerlerin üstüne tıkla.
+
+--------------
+CTRL + SHIFT + SOL Yön Tuşu -> bir satırının sonuna gelerek kelime kelime seçer.
+ALT + Yukarı/Aşağı yön Tuşu -> satırın üstüne gelerek yerini değiştirir.
+
+
+
+
+
+
+
