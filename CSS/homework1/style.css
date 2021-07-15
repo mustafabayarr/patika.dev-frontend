@@ -1,0 +1,36 @@
+/* Header Text*/
+.text-header {
+    color: #D54C4C;
+    text-align: center;
+}
+
+/*Navbar Menu*/
+.navbar {
+    text-align: center;
+}
+.navbar ul li {
+    list-style: none;
+    display: inline;
+    padding: 10px;
+}
+.navbar ul li a {
+    font-size: 18px;
+}
+
+/*Section*/
+.section {
+    text-align: center;
+}
+.section h2{
+    color: #8D2828;
+}
+.section h3{
+    color: #548CA8;
+}
+.section ul li {
+    list-style-position: inside; /* listenin . ları dışarda kalıyor. noktaları içeri almak için kullandık*/
+}
+/* Section - Products*/
+.section ol li {
+    list-style-position: inside; /* listenin . ları dışarda kalıyor. noktaları içeri almak için kullandık*/
+}
