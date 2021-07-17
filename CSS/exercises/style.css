@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+/*Container*/
+.container {
+    width: 1000px;
+    margin: 50px auto 0;
+}
+
+/* Left Bar */
+.left-bar {
+    width: 200px;
+    float: left;
+}
+
+/* Content */
+.content {
+    width: 800px;
+    float: left;
+}
+
+/* Card */
+.card {
+    float: left;
+    width: 20%;
+
+    margin-right: 3%;
+    padding: 5%;
+    background-color: rgb(223, 200, 200);
+    border-radius: 10px;
+}
+
+/* 
+.bg-yellow {
+    background-color: yellow;
+}
+
+.bg-green {
+    background-color: green;
+}
+
+.bg-red {
+    background-color: red;
+} */
